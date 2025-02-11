@@ -14,12 +14,7 @@ Intellij IDEA Community - 3.2.2 - https://www.jetbrains.com/idea/download/other.
 Java - 17 - https://www.oracle.com/java/technologies/downloads/
 
 
-
-==========================
-
 # Important:
-
-==========================
 
 
 I don't plan on maintaining this past it's usefulness.
@@ -32,11 +27,8 @@ It's mostly for me to have a working backup of a blank forge mod that I can can 
 
 It also isn't really in the realm of best practice in any sense, example: the logger was giving me an error on running the client, so I commented it out; but that is about the only change that was made to the default examplemod project that prevented it from running.
 
-==========================
 
 # About:
-
-==========================
 
 
 A download and go version of a basic empty example mod for forge using forge mdk with parchment and intellij.

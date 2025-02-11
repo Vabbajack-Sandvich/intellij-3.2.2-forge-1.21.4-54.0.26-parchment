@@ -1,6 +1,8 @@
 # intellij-3.2.2-forge-1.21.4-54.0.26-parchment
 
-Versions:
+# Versions:
+
+
 Minecraft - 1.21.4 - https://www.minecraft.net/
 Forge - 54.0.26 - https://files.minecraftforge.net/net/minecraftforge/forge/
 Parchment - 2025.01.19 - https://parchmentmc.org/docs/getting-started
@@ -11,7 +13,7 @@ Java - 17 - https://www.oracle.com/java/technologies/downloads/
 
 ==========================
 
-Important:
+#Important:
 
 ==========================
 
@@ -28,7 +30,7 @@ It also isn't really in the realm of best practice in any sense, example: the lo
 
 ==========================
 
-About:
+#About:
 
 ==========================
 

@@ -1,9 +1,17 @@
 # intellij-3.2.2-forge-1.21.4-54.0.26-parchment
 
+Versions:
+Minecraft - 1.21.4 - https://www.minecraft.net/
+Forge - 54.0.26 - https://files.minecraftforge.net/net/minecraftforge/forge/
+Parchment - 2025.01.19 - https://parchmentmc.org/docs/getting-started
+Intellij IDEA Community - 3.2.2 - https://www.jetbrains.com/idea/download/other.html
+Java - 17 - https://www.oracle.com/java/technologies/downloads/
+
+
 
 ==========================
 
-important:
+Important:
 
 ==========================
 
@@ -14,13 +22,13 @@ I don't plan on helping people with problems.
 
 I don't plan on making a tutorial video.
 
-It's mostly for me to have a working backup of a blank forge mod that i can can start from and know it's going to work
+It's mostly for me to have a working backup of a blank forge mod that I can can start from and know it's going to work.
 
-It also isn't really in the realm of best practice in any sense, example: the logger was giving me an error on running the client, so I commented it out.
+It also isn't really in the realm of best practice in any sense, example: the logger was giving me an error on running the client, so I commented it out; but that is about the only change that was made to the default examplemod project that prevented it from running.
 
 ==========================
 
-about:
+About:
 
 ==========================
 

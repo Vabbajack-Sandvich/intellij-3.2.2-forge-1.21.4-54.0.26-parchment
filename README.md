@@ -4,9 +4,13 @@
 
 
 Minecraft - 1.21.4 - https://www.minecraft.net/
+
 Forge - 54.0.26 - https://files.minecraftforge.net/net/minecraftforge/forge/
+
 Parchment - 2025.01.19 - https://parchmentmc.org/docs/getting-started
+
 Intellij IDEA Community - 3.2.2 - https://www.jetbrains.com/idea/download/other.html
+
 Java - 17 - https://www.oracle.com/java/technologies/downloads/
 
 

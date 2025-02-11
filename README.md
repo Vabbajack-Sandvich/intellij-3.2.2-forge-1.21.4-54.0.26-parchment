@@ -17,7 +17,7 @@ Java - 17 - https://www.oracle.com/java/technologies/downloads/
 
 ==========================
 
-#Important:
+# Important:
 
 ==========================
 
@@ -34,7 +34,7 @@ It also isn't really in the realm of best practice in any sense, example: the lo
 
 ==========================
 
-#About:
+# About:
 
 ==========================
 
